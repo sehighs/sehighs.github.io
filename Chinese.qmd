@@ -11,7 +11,6 @@ editor:
 这是我的个人主页，你可以在这里找到我的笔记、文章和代码，我现在只是硕士在读，所以内容会比较基础和稚嫩，欢迎指导批评！我正在寻找博士位置中,我希望我的学术生涯能和这个网站一样持续建设下去！
 
 - 邮箱：sehighs@163.com
-- 电话：15676751681
 - Github: <https://github.com/sehighs>
 - ORCID: <https://orcid.org/0009-0000-6270-0617>
 - 个人主页：<https://sehighs.github.io>
