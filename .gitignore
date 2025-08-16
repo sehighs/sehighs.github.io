@@ -5,3 +5,6 @@
 .DS_Store
 
 /.quarto/
+.quarto/
+_site/
+*.DS_Store
