@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
-  favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  title: "Shihang Liu"
+  site-url: https://sehighs.github.io
+  favicon: images/bhb.JPG
+  repo-url: https://github.com/sehighs/sehighs.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      ABA BBQ!
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -20,14 +20,12 @@ website:
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Home"
+      - text: "About"
         href: index.qmd
       - text: "Publications"
         href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
+      - text: "Notes"
+        href: Notes.qmd
       - text: "Codes"
         href: codes.qmd
       - text: "中文"
