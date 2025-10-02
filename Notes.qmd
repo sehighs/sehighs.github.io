@@ -5,6 +5,16 @@ editor:
     wrap: 72
 ---
 
+## Research Notes
 
+- [**Note for 21cmFAST**](note/Note%20for%2021cmFAST.pdf)  
+  My first note during my Master's studies. It is relatively simple and introductory.
 
-## To be upload....
+- [**Note for Interferometer Array**](note/Note%20for%20Interferometer%20Array.pdf)  
+  Covers the basics of radio interferometer arrays, sensitivity of the power spectrum, and the foreground wedge.
+
+- [**Note for Correlation Function**](note/Note%20for%20Correlation%20Function.pdf)  
+  Notes on correlation functions and related statistical methods in cosmology.
+
+- [**Note for Structure Formation**](note/Structure%20Formation.pdf)  
+  Includes spherical collapse and the halo mass function.

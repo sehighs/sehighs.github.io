@@ -24,12 +24,13 @@ editor:
 
 - 宇宙学 (21cm宇宙学、大尺度结构形成与演化、暗物质、第一代天体)
 - 数据处理 (21cm前景扣除、机器学习)
+- 统计方法 （相关函数，小波变换）
 
 ## 技能
 - Python, C
 - 21cmFAST, 21cmSense
   
 ## 论文
-- **Shihang Liu** et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. [In prep.](https://arxiv.org/abs/2508.10176)
-- Xinzhong Er, Jiangchuan Yu, Adam Rogers, **Shihang Liu**, Shude Mao. Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources. **MNRAS**, 2022, accepted. [-Link-](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext)
+- **Shihang Liu** et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. [arxiv](https://arxiv.org/abs/2508.10176)
+- Xinzhong Er, Jiangchuan Yu, Adam Rogers, **Shihang Liu**, Shude Mao. Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources. [**MNRAS**](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext), 2022, accepted. 
 

@@ -15,10 +15,10 @@ editor: visual
 
     Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization.
 
-    Have submitted to PRD. [Link](https://arxiv.org/abs/2508.10176)
+    Have submitted to PRD. [arXiv](https://arxiv.org/abs/2508.10176)
 
 -   Xinzhong Er, Jiangchuan Yu, Adam Rogers, **Shihang Liu**, Shude Mao.
 
     Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources.
 
-    **MNRAS**, 2022. [Link](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext)
+    [**MNRAS**](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext), 2022.

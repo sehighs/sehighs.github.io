@@ -33,6 +33,7 @@ I am currently seeking PhD opportunities, and I hope both my academic career and
 ## Research Interests
 - Cosmology (21cm Cosmology, First Galaxies, Dark Matter, Large Scale Structure Formation and Evolution)
 - Data analysis (21cm foreground removal, applications of machine learning in cosmology)
+- Statisitic (Correlation Function, Wavelet Transform)
 
 
 ## Education
