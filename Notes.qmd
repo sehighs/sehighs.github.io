@@ -7,9 +7,6 @@ editor:
 
 ## Research Notes
 
-- [**Note for 21cmFAST**](note/Note%20for%2021cmFAST.pdf)  
-  My first note during my Master's studies. It is relatively simple and introductory.
-
 - [**Note for Interferometer Array**](note/Note%20for%20Interferometer%20Array.pdf)  
   Covers the basics of radio interferometer arrays, sensitivity of the power spectrum, and the foreground wedge.
 
@@ -18,3 +15,8 @@ editor:
 
 - [**Note for Structure Formation**](note/Structure%20Formation.pdf)  
   Includes spherical collapse and the halo mass function.
+
+- [**Note for 21cmFAST**](note/Note%20for%2021cmFAST.pdf)  
+  My first note during my Master's studies. It is relatively simple and introductory.
+
+
