@@ -7,7 +7,7 @@ editor:
 
 ## 个人简介
 
-刘世航，男，2022 年毕业于云南大学物理与天文学院天文菁英班，获理学学士学位。现为广西大学物理科学与工程学院研究生，导师为李博华。研究方向为21cm宇宙学，研究兴趣包含21cm宇宙学、第一代天体、暗物质、宇宙大尺度结构的形成与演化；同时也很关注21cm前景处理和机器学习在宇宙学中的应用等细分方向。
+刘世航，男，2022 年毕业于云南大学物理与天文学院天文菁英班，获理学学士学位。现为广西大学物理科学与工程学院硕士研究生，导师为李博华。研究方向为21cm宇宙学，研究兴趣包含21cm宇宙学、第一代天体、暗物质、宇宙大尺度结构的形成与演化；同时也很关注21cm前景处理和机器学习在宇宙学中的应用等细分方向。
 这是我的个人主页，你可以在这里找到我的笔记、文章和代码，我现在只是硕士在读，所以内容会比较基础和稚嫩，欢迎指导批评！我正在寻找博士位置中,我希望我的学术生涯能和这个网站一样持续建设下去！
 
 - 邮箱：sehighs@163.com
@@ -31,6 +31,6 @@ editor:
 - 21cmFAST, 21cmSense
   
 ## 论文
-- **Shihang Liu** et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. [arxiv](https://arxiv.org/abs/2508.10176)
+- **Shihang Liu** et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. [arXiv](https://arxiv.org/abs/2508.10176)
 - Xinzhong Er, Jiangchuan Yu, Adam Rogers, **Shihang Liu**, Shude Mao. Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources. [**MNRAS**](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext), 2022, accepted. 
 
