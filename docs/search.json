@@ -53,7 +53,7 @@
     "href": "Chinese.html#论文",
     "title": "中文版",
     "section": "论文",
-    "text": "论文\n\nShihang Liu et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. arXiv\nXinzhong Er, Jiangchuan Yu, Adam Rogers, Shihang Liu, Shude Mao. Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources. MNRAS, 2022, accepted."
+    "text": "论文\n\nHayato Shimabukuro, Shihang Liu, Bohua Li Probing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform. 已经提交至PRD. arXiv\nShihang Liu et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. PRD, 2025. arXiv\nXinzhong Er, Jiangchuan Yu, Adam Rogers, Shihang Liu, Shude Mao. Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources. MNRAS, 2022, accepted."
   },
   {
     "objectID": "index.html",
@@ -149,15 +149,22 @@
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Works",
     "section": "",
     "text": "Links\n\n\n\n\n\nORCID: https://orcid.org/0009-0000-6270-06177535"
   },
   {
     "objectID": "publications.html#publications",
     "href": "publications.html#publications",
-    "title": "Publications",
+    "title": "Works",
     "section": "Publications",
-    "text": "Publications\n\nShihang Liu, Yilin Liu, Bowen Peng, Mengzhou Xie, Zelong Liu, Bohua Li, Yi Mao.\nConstraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization.\nHave submitted to PRD. arXiv\nXinzhong Er, Jiangchuan Yu, Adam Rogers, Shihang Liu, Shude Mao.\nBias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources.\nMNRAS, 2022."
+    "text": "Publications\n\nHayato Shimabukuro, Shihang Liu, Bohua Li\nProbing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform\nHave submitted to PRD. arXiv\nShihang Liu, Yilin Liu, Bowen Peng, Mengzhou Xie, Zelong Liu, Bohua Li, Yi Mao.\nConstraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization.\nPRD, 2025. arXiv\nXinzhong Er, Jiangchuan Yu, Adam Rogers, Shihang Liu, Shude Mao.\nBias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources.\nMNRAS, 2022."
+  },
+  {
+    "objectID": "publications.html#others",
+    "href": "publications.html#others",
+    "title": "Works",
+    "section": "Others",
+    "text": "Others\n\nAcademic Video\n\nlink"
   }
 ]

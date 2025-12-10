@@ -22,7 +22,7 @@ website:
     right: 
       - text: "About"
         href: index.qmd
-      - text: "Publications"
+      - text: "Works"
         href: publications.qmd
       - text: "Notes"
         href: Notes.qmd

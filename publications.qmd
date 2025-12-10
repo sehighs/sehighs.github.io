@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Works"
 editor: visual
 ---
 
@@ -11,14 +11,30 @@ editor: visual
 
 ## Publications
 
+-   Hayato Shimabukuro, **Shihang Liu**, Bohua Li
+
+    Probing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform
+
+    Have submitted to PRD. [arXiv](https://arxiv.org/abs/2512.00402)
+
 -   **Shihang Liu**, Yilin Liu, Bowen Peng, Mengzhou Xie, Zelong Liu, Bohua Li, Yi Mao.
 
     Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization.
 
-    Have submitted to PRD. [arXiv](https://arxiv.org/abs/2508.10176)
+    [PRD](https://journals.aps.org/prd/abstract/10.1103/zh2b-hhrs), 2025. [arXiv](https://arxiv.org/abs/2508.10176)
 
 -   Xinzhong Er, Jiangchuan Yu, Adam Rogers, **Shihang Liu**, Shude Mao.
 
     Bias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources.
 
     [**MNRAS**](https://academic.oup.com/mnras/article-abstract/510/1/197/6449010?redirectedFrom=fulltext), 2022.
+
+## Others
+
+### Academic Video
+<div style="margin-bottom:8px;">
+  <a href="images/21cm & FDM.mp4">link</a>
+</div>
+<video controls width="600">
+  <source src="images/21cm & FDM.mp4" type="video/mp4">
+</video>
