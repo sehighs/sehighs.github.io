@@ -32,9 +32,13 @@ editor: visual
 ## Others
 
 ### Academic Video
-<div style="margin-bottom:8px;">
-  <a href="images/21cm & FDM.mp4">link</a>
-</div>
+
+::: {style="margin-bottom:8px;"}
+<a href="images/21cm & FDM.mp4">link</a>
+:::
+
 <video controls width="600">
-  <source src="images/21cm & FDM.mp4" type="video/mp4">
+
+<source src="images/21cm & FDM.mp4" type="video/mp4">
+
 </video>

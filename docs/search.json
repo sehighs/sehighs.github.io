@@ -147,22 +147,22 @@
     "text": "我的 个人主页 是基于 Chi Zhang (github) 的个人主页修改而来的。\n具体而言，是参考中山大学连玉君教授的教程，以下为其原文：\n你可以 Fork 本仓库，然后酌情修改你的个人信息，编译后即可生成你的个人主页。这种方法无需注册域名，也不用学习 HTML 和 CSS 等前端知识，直接使用 GitHub Pages 即可完成个人主页的搭建。\n具体制作过程参见：\n\n连小白, 2025, 50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程.\n\n本仓库的使用方法：\n\n你可以点击本页右上方的 ⭐Star 按钮来收藏本仓库，方便日后查阅；\n也可以点击 Use this template 按钮来快速 Fork 本仓库。\n你制作个人主页期间有任何问题，可以在 Discussions 提问和讨论。"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "Works.html",
+    "href": "Works.html",
     "title": "Works",
     "section": "",
     "text": "Links\n\n\n\n\n\nORCID: https://orcid.org/0009-0000-6270-06177535"
   },
   {
-    "objectID": "publications.html#publications",
-    "href": "publications.html#publications",
+    "objectID": "Works.html#publications",
+    "href": "Works.html#publications",
     "title": "Works",
     "section": "Publications",
     "text": "Publications\n\nHayato Shimabukuro, Shihang Liu, Bohua Li\nProbing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform\nHave submitted to PRD. arXiv\nShihang Liu, Yilin Liu, Bowen Peng, Mengzhou Xie, Zelong Liu, Bohua Li, Yi Mao.\nConstraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization.\nPRD, 2025. arXiv\nXinzhong Er, Jiangchuan Yu, Adam Rogers, Shihang Liu, Shude Mao.\nBias in apparent dispersion measure due to demagnification of plasma lensing on background radio sources.\nMNRAS, 2022."
   },
   {
-    "objectID": "publications.html#others",
-    "href": "publications.html#others",
+    "objectID": "Works.html#others",
+    "href": "Works.html#others",
     "title": "Works",
     "section": "Others",
     "text": "Others\n\nAcademic Video\n\nlink"
