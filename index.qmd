@@ -24,11 +24,11 @@ about:
 
 ::: {#hero-heading}
 
-My name is Shihang Liu, a current Master's student in cosmology at Guangxi University, supervised by [Bohua Li](https://prof.gxu.edu.cn/teacherDetails/5223c932-91c4-4a78-9926-9b9ff7708e8a). 
+My name is Shihang Liu, a current Master's student in cosmology at Guangxi University, supervised by [Bohua Li](https://orcid.org/0000-0002-3600-0358). 
 
 This is my personal academic homepage, where you can find my CV, research/study notes, publications, and other relevant information. The pages are still under construction as my academic journey progresses. Since I’m still in the early stages of my research, some content may be quite basic—any advice or feedback would be greatly appreciated! 
 
-I am currently seeking PhD opportunities, and I hope both my academic career and this website will continue to evolve over time.
+I am preparing to join [Prof. Junqing Xia](https://inspirehep.net/authors/1026564)'s group to pursue a PhD degree, and I hope both my academic career and this website will continue to evolve over time.
 
 ## Research Interests
 - Cosmology (21cm Cosmology, First Galaxies, Dark Matter, Large Scale Structure Formation and Evolution)
@@ -39,9 +39,9 @@ I am currently seeking PhD opportunities, and I hope both my academic career and
 ## Education
 
 - 2023 - :  Graduate student, Guangxi University    
-            Major: Cosmology · Supervisor: [Dr. Bohua Li](https://prof.gxu.edu.cn/teacherDetails/5223c932-91c4-4a78-9926-9b9ff7708e8a)
+            Major: Cosmology · Supervisor: [Dr. Bohua Li](https://orcid.org/0000-0002-3600-0358)
 - 2018 - 2022: Undergraduate student, Yunnan University
-            Major: Astronomy · Supervisor: Prof. Xinzhong Er
+            Major: Astronomy · Supervisor: [Prof. Xinzhong Er](https://orcid.org/0000-0002-8700-3671)
 
 ## Skills
 - Python, C

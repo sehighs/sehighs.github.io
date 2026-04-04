@@ -15,7 +15,7 @@ editor: visual
 
     Probing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform
 
-    Have submitted to PRD. [arXiv](https://arxiv.org/abs/2512.00402)
+    [arXiv](https://arxiv.org/abs/2512.00402)
 
 -   **Shihang Liu**, Yilin Liu, Bowen Peng, Mengzhou Xie, Zelong Liu, Bohua Li, Yi Mao.
 
