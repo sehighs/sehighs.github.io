@@ -31,7 +31,11 @@ editor:
 - 21cmFAST, 21cmSense
   
 ## 论文
-- Hayato Shimabukuro, **Shihang Liu**, Bohua Li
+- 李博华, **刘世航**, 赵梦麟等， 
+  基于鸿蒙21 cm全天平均频谱研究暗物质物理本质及早期宇宙黑洞形成  
+  (环月低频射电天文台（鸿蒙计划）科学白皮书，中文版)
+  [中国科学: 物理学 力学 天文学](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2026-0032)，SSPMA预发表
+- Hayato Shimabukuro, **Shihang Liu**, Bohua Li.
   Probing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform.
   [arXiv](https://arxiv.org/abs/2512.00402)
 - **Shihang Liu** et al. Constraining fuzzy dark matter with the 21-cm power spectrum from Cosmic Dawn and Reionization. [PRD](https://journals.aps.org/prd/abstract/10.1103/zh2b-hhrs), 2025. [arXiv](https://arxiv.org/abs/2508.10176)
