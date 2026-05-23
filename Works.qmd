@@ -12,7 +12,7 @@ editor: visual
 ## Publications
 -   Li bohua, **Liu shihang**, Zhao menglin, et al. 
     Investigating the nature of dark matter and early-universe black hole formation based on the Hongmeng measurement of the global 21-cm spectrum  
-    (HongMeng project white paper, Chinese ver.) [SSPMA](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2026-0032)
+    (part of HongMeng project white paper, Chinese ver.) [SSPMA](https://www.sciengine.com/SSPMA/doi/10.1360/SSPMA-2026-0032)
 -   Hayato Shimabukuro, **Shihang Liu**, Bohua Li.
     Probing Fuzzy Dark Matter in the 21 cm Signal via Wavelet Scattering Transform
     [arXiv](https://arxiv.org/abs/2512.00402)
